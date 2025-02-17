@@ -94,3 +94,4 @@ struct NewsView: View {
     }
     .listStyle(.plain)
 }
+
